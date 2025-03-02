@@ -39,18 +39,19 @@ venv\Scripts\activate     # On Windows
 ```bash
 pip install fastapi uvicorn sqlalchemy sqlite3 pydantic ollama
 ```
-### 5️⃣ Run the Backend Server
-```bash
-uvicorn main:app --reload
-```
-### 6️⃣ Open the Chatbot
-Open index.html in a browser.
-
 ### 🛠 Database Setup (SQLite3)
 The chatbot stores chat history using SQLite3. The database.py file handles database connections.
-## To Create a Database
+## 5️⃣To Create a Database
 ```bash
 python create_db.py
 ```
+### 6️⃣ Run the Backend Server
+```bash
+uvicorn main:app --reload
+```
+### 7️⃣ 7 Open the Chatbot
+Open index.html in a browser.
+
+
 
 
