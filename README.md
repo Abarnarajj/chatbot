@@ -10,10 +10,10 @@ LLaMA 3.2 Bot is an **AI-powered chatbot** built using **FastAPI** for the backe
 - 🔌 **Easy Deployment** – Lightweight & scalable solution.  
 
 ### 🏗 Tech Stack
-**Backend:** FastAPI
-**Frontend:** HTML, CSS, JavaScript
-**Database:** SQLite3
-**AI Model:** LLaMA 3.2 (via Ollama)
+-**Backend:** FastAPI.
+-**Frontend:** HTML, CSS, JavaScript.
+-**Database:** SQLite3.
+-**AI Model:** LLaMA 3.2 (via Ollama).
 
 
 ## 🚀 Installation & Setup  
