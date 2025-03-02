@@ -54,7 +54,7 @@ Open index.html in a browser.
 
 ### 📸 Output Preview
 ![UI](https://github.com/user-attachments/assets/cbd21733-24bb-41c7-bc85-77ab3d310d91)
-![backend](https://github.com/user-attachments/assets/cfcbc709-1f73-4acd-93f3-dc374fc9aa91)
+
 ![db](https://github.com/user-attachments/assets/6c9484dd-4df2-4677-bb61-016035422ddc)
 
 
